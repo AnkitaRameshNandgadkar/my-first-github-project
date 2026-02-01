@@ -9,6 +9,15 @@ Today I learned:
 Feeling:
 I am feeling more confident using GitHub today.
 
+Day 3 – GitHub Learning Log
+
+Today I learned:
+- How GitHub contributions are counted
+- Why one commit per day is enough
+- The importance of consistency over quantity
+
+Feeling:
+I feel more confident and less confused about GitHub.
 
 
 
