@@ -1,25 +1,18 @@
-# my-first-github-project
-My first GitHub project
+# My First GitHub Project 🚀
 
-# Git & GitHub Tutorial
-## Day 4: Learn Markdown & Improve README
-## GitHub Learning Journey 🚀
+This repository contains my beginner-level programming practice.
 
-This repository documents my daily GitHub learning progress.
-I am learning step by step with consistency.
+## Python Beginner 🐍
+This folder includes:
+- hello.py → My first Python program
+- variables.py → Python variables example
 
-### What I am doing here
-- Learning Git & GitHub from scratch
-- Maintaining daily activity
-- Writing what I learn every day
-- Preparing for real projects
+## Learning Goal 🎯
+I am learning:
+- GitHub basics
+- Python fundamentals
+- How to commit code daily
 
-### Skills I am learning
-- Git & GitHub
-- Java (Basics)
-- Python (Basics)
-- Problem Solving
+📌 This repository is part of my daily learning journey.
 
-### Goal 🎯
-To become confident using GitHub and build meaningful projects.
 
