@@ -15,6 +15,11 @@ I am learning:
 
 📌 This repository is part of my daily learning journey.
 
+## Python Beginner Progress
+
+- ✅ Hello World program
+- ✅ Variables example
+- ✅ Data types example
 
 
 
