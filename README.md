@@ -21,5 +21,6 @@ I am learning:
 - ✅ Variables example
 - ✅ Data types example
 
-
+- ✅ If-else condition example
+- ✅ Even or Odd program
 
