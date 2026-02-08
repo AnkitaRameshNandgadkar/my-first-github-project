@@ -23,4 +23,5 @@ I am learning:
 
 - ✅ If-else condition example
 - ✅ Even or Odd program
-
+- ✅ Functions example
+- ✅ Simple calculator using functions
