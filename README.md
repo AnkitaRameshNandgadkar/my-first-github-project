@@ -25,3 +25,4 @@ I am learning:
 - ✅ Even or Odd program
 - ✅ Functions example
 - ✅ Simple calculator using functions
+- ✅ Python Lists – creation, loops
