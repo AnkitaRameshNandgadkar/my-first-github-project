@@ -26,3 +26,5 @@ I am learning:
 - ✅ Functions example
 - ✅ Simple calculator using functions
 - ✅ Python Lists – creation, loops
+- ✅Lists (real-world examples)
+
