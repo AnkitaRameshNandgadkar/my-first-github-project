@@ -27,4 +27,5 @@ I am learning:
 - ✅ Simple calculator using functions
 - ✅ Python Lists – creation, loops
 - ✅Lists (real-world examples)
+- ✅Dictionaries and data storage concepts
 
