@@ -1,23 +1,16 @@
-Day 2 – GitHub Learning Log
+Python Learning Summary
 
-Today I learned:
-- How to edit README.md
-- How to create a new file on GitHub
-- What commits are
-- Why daily GitHub activity matters
+Completed Topics:
+- Variables
+- Data types
+- Conditions
+- Loops
+- Functions
+- Lists
+- Dictionaries
 
-Feeling:
-I am feeling more confident using GitHub today.
+Practicing daily and building strong GitHub profile.
 
-Day 3 – GitHub Learning Log
-
-Today I learned:
-- How GitHub contributions are counted
-- Why one commit per day is enough
-- The importance of consistency over quantity
-
-Feeling:
-I feel more confident and less confused about GitHub.
 
 
 
