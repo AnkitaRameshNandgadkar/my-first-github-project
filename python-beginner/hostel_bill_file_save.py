@@ -14,6 +14,7 @@ file = open("bill_report.txt", "w")
 
 total_revenue = 0
 
+# List of student electricity usage
 file.write("Hostel Electricity Bill Report\n\n")
 
 for student in students:
