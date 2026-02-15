@@ -1,0 +1,8 @@
+Hostel Electricity Bill Report
+
+Name: Ankita, Units: 120, Bill: 600
+Name: Rahul, Units: 150, Bill: 750
+Name: Sneha, Units: 90, Bill: 450
+Name: Amit, Units: 110, Bill: 550
+
+Total Revenue: 2350
